@@ -1,6 +1,1 @@
-# NINJA-STUDIO-PROJECT
-View this Project at
-
-
-
-To Open Single PLaylist Screen Click on any Popular Artist.
+You can see this project here https://1harshsaini.github.io/CN-Nusic-Player/
